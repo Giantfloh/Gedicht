@@ -2,8 +2,10 @@ Farbpalette
 
 
 Rot
-Grün
+Hellgrün
 Blau
+Gelb
+Orange
 
 
 Das sind tolle Farben
