@@ -3,7 +3,9 @@ Farbpalette
 
 Rot
 Grün
-Blau
+Dunkelblau
+Gelb
+Magenta
 
 
 Das sind tolle Farben
